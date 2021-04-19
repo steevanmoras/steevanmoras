@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steevanmoras
+- 👋 Hi, I’m Steevan Lenson Moras
 - 👀 I’m interested in Programming
 - 🌱 I’m currently working as a Python developer
 - 💞️ I’m looking to collaborate on Python
